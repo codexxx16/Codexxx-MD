@@ -7,7 +7,7 @@ CODEXXX-MD Multimedia Bot
 </p>
 
 <p align="center">
-  <img alt="CODEXXX-MD" height="550" width="550" src="https://i.imgur.com/4q3XNjO.jpg">
+  <img alt="Codexxx md" height="550" width="550" src="https://i.imgur.com/4q3XNjO.jpg">
 </p>
 
 <p align="center">
