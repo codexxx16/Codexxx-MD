@@ -1,7 +1,7 @@
 # Codexxx-MD
 Multimedia bot created by Codexxx himself 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+SUPUN-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;DARK+SHADOW+MODZ." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+SUPUN-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;CODEXXX." alt="Typing SVG" /></a>
 
  
   
@@ -14,7 +14,7 @@ Multimedia bot created by Codexxx himself
 
 <p align="center">
   <a href="https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12">
-    <img alt="SUPUN-MD" height="550" width="550" src="https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg">
+    <img alt="CODEXXX-MD" height="550" width="550" src="https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg">
 <br>
 
 <div align="left">
@@ -43,7 +43,7 @@ Multimedia bot created by Codexxx himself
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Mr.Supun Fernando-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
-<u>🌺 ＳＵＰＵＮ-ＭＤ 🌺</u>
+<u>🌺 CODEXXX-ＭＤ 🌺</u>
 </p>
 
 .[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌾](https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12)
@@ -68,7 +68,7 @@ ____________________
 <br>
 <div align="left">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖲𝖴𝖯𝖴𝖭+𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODEXXX+𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸)](https://git.io/typing-svg) </div>
 
 <a href="https://supun-md-web.vercel.app/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
@@ -125,15 +125,5 @@ jobs:
 
 `CODEXXX│MD - 𝖡𝗒 ©CODEXXX`
 
-`𝖥𝗈𝗋𝗐𝖺𝗋𝖽 𝖡𝗒 𝖣𝖺𝗋𝗄 𝖲𝗁𝖺𝖽𝗈𝗐 𝖬𝗈𝖽𝗓`
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-  ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.``
-
-<br>
-
-
-`Released date:- 2025.01.18`
-<br>
-`latest updated date:- 2025.03.20`
