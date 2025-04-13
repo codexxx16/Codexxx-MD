@@ -36,7 +36,7 @@ Multimedia bot created by Codexxx himself
 <br>
  
 <p align="center">
-<a href="#"><img title="sapot" src="https://img.shields.io/badge/Supun-Fernando-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="sapot" src="https://img.shields.io/badge/CODEXX-MD-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 </p>
 <p align="center">
