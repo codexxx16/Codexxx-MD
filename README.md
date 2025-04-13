@@ -21,17 +21,6 @@ Multimedia bot created by Codexxx himself
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODEXXX+𝖬𝖣+𝖡𝖮𝖳+𝖨𝖭𝖥𝖮)](https://git.io/typing-svg) </div>
   
-  
-<p align="center">
-<a href="https://github.com/mrsupunfernando12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrsupunfernando12?color=red&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrsupunfernando12/SUPUN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrsupunfernando12/SUPUN-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrsupunfernando12/SUPUN-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Supun%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrsupunfernando12/SUPUN-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrsupunfernando12%2FSUPUN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/SUPUN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
 
 <br>
  
