@@ -1,7 +1,7 @@
 # Codexxx-MD
 Multimedia bot created by Codexxx himself 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+SUPUN-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;CODEXXX." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+CODEXXX-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CODEXXX." alt="Typing SVG" /></a>
 
  
   
@@ -13,13 +13,13 @@ Multimedia bot created by Codexxx himself
 <hr>
 
 <p align="center">
-  <a href="https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12">
+  <a href="https://youtube.com/@16ixtxxn_Tentacion?si=8js31BzLWISSdz12">
     <img alt="CODEXXX-MD" height="550" width="550" src="https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg">
 <br>
 
 <div align="left">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖡𝖮𝖳+𝖨𝖭𝖥𝖮)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODEXXX+𝖬𝖣+𝖡𝖮𝖳+𝖨𝖭𝖥𝖮)](https://git.io/typing-svg) </div>
   
   
 <p align="center">
@@ -40,17 +40,17 @@ Multimedia bot created by Codexxx himself
 </p>
 </p>
 <p align="center">
-<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Mr.Supun Fernando-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-CODEXXX.-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
-<u>🌺 CODEXXX-ＭＤ 🌺</u>
+<u> CODEXXX-ＭＤ </u>
 </p>
 
-.[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌾](https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12)
+.[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓](https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12)
 
-[𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌷](https://whatsapp.com/channel/0029Vb3uN4N1dAvxv4euxb0q)
+[𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘊𝘏𝘈𝘕𝘕𝘌𝘓](https://whatsapp.com/channel/0029Vb3uN4N1dAvxv4euxb0q)
 
-[𝘖𝘞𝘕𝘌𝘙 𝘊𝘖𝘕𝘛𝘈𝘊𝘛💗🌼](https://wa.me/+27742820156?text=Codexxx)
+[𝘖𝘞𝘕𝘌𝘙 𝘊𝘖𝘕𝘛𝘈𝘊𝘛](https://wa.me/+27742820156?text=Codexxx)
 
 
 ____________________
@@ -70,11 +70,11 @@ ____________________
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODEXXX+𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸)](https://git.io/typing-svg) </div>
 
-<a href="https://supun-md-web.vercel.app/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<a href="https://supun-md-web.vercel.app/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOYING PLATFORMS" width="300"></a>
 <br>
  <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODEXXXX+MD)](https://git.io/typing-svg) </div>
 
 ### GitHub Actions Workflows
 
