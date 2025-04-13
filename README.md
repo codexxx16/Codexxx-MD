@@ -1,4 +1,3 @@
-markdown
 CODEXXX-MD Multimedia Bot
 
 <p align="center">
