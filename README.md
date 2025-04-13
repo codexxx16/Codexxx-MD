@@ -1,3 +1,4 @@
+markdown
 CODEXXX-MD Multimedia Bot
 
 <p align="center">
@@ -7,7 +8,7 @@ CODEXXX-MD Multimedia Bot
 </p>
 
 <p align="center">
-  <img alt="CODEXXX-MD" height="550" width="550" src="https://i.imgur.com/N6mlp9T.jpg">
+  <img alt="CODEXXX-MD" height="550" width="550" src="https://i.imgur.com/4q3XNjO.jpg">
 </p>
 
 <p align="center">
@@ -17,11 +18,11 @@ CODEXXX-MD Multimedia Bot
 </p>
 
 <p align="center">
-<a href="#"><img title="CODEXXX-MD" src="https://img.shields.io/badge/CODEXXX-MD-blue.svg?style=for-the-badge&logo=github"></a>
+  <a href="#"><img title="CODEXXX-MD" src="https://img.shields.io/badge/CODEXXX-MD-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
-  <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-CODEXXX-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-CODEXXX-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
@@ -60,7 +61,7 @@ on:
       - main
   pull_request:
     branches:
-- main
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -69,7 +70,8 @@ jobs:
         node-version: [20.x]
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+
+uses: actions/checkout@v3
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -78,3 +80,4 @@ jobs:
         run: npm install
       - name: Run tests
         run: npm test
+```
