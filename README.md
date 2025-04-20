@@ -5,7 +5,7 @@ BETA VERSION TO TEST
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/1bqp4k.jpg"  width="400" height="800">
+<img src = "https://files.catbox.moe/1bqp4k.jpg"  width="600" height="800">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=CODEXXX-MD+BETA+VERSION" alt="">
