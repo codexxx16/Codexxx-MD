@@ -16,9 +16,9 @@ BETA VERSION TO TEST
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Codexxx16/Codexxx-MD/fork"><img title="CODEXXX-MD" src="https://img.shields.io/badge/FORK-CODEXXX-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='[https://i.imgur.com/LyHic3i.gif](https://files.catbox.moe/1bqp4k.jpg)'/>
 
  Get Session ID (WhatsApp Pair Code Login)
 
