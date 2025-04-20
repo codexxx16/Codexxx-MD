@@ -1,65 +1,67 @@
-CODEXXX-MD Multimedia Bot
+# CODEXXX-MD
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THIS+IS+CODEXXX-MD+BETA" alt="Typing SVG" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+BETA VERSION TO TEST
+<div class = "repo" align = "center">
+ 
+<a href = "#">
+<img src = "https://files.catbox.moe/bqs70b.jpg"  width="300" height="200">
+</img>
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=CODEXXX-MD+BETA+VERSION" alt="">
+   
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+
+**1. Fork This Repository**
+
+*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+
+  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+ Get Session ID (WhatsApp Pair Code Login)
+
+> To deploy, generate your session ID from the link below:
+<p align="left">
+  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<p align="center">
-  <img alt="Codexxx md" height="550" width="550" src="[https://imgur.com/gallery/codexxx-md-4q3XNjO](https://files.catbox.moe/dwsi5d.jpg)">
-</p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?font=Rockstar-ExtraBold&color=0000FF&lines=CODEXXX+%F0%9D%96%AC%F0%9D%96%A3+%F0%9D%96%A1%F0%9D%96%AE%F0%9D%96%B3+%F0%9D%96%A8%F0%9D%96%AD%F0%9D%96%A5%F0%9D%96%AE">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Rockstar-ExtraBold&color=0000FF&lines=CODEXXX+%F0%9D%96%AC%F0%9D%96%A3+%F0%9D%96%A1%F0%9D%96%AE%F0%9D%96%B3+%F0%9D%96%A8%F0%9D%96%AD%F0%9D%96%A5%F0%9D%96%AE" alt="Typing SVG" />
-  </a>
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<p align="center">
-  <a href="#"><img title="CODEXXX-MD" src="https://img.shields.io/badge/CODEXXX-MD-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-  <a href="#"><img title="SUPPORT" src="https://img.shields.io/badge/CODEXXX-MD-blue.svg?style=for-the-badge&logo=whatsapp"></a>
-</p>
+2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
-<p align="center">
-<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-CODEXXX-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/SUBSCRIBE TO MY YOUTUBE-red.svg?style=for-the-badge&logo=youtube"></a>
-</p>
 
-<p align="center">
-  <u> CODEXXX-MD </u>
-</p>
+   
+  1..DEPLOY ON HEROKU [COMING SOON]⤵️
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcodexxx16%2Fcodexxx-MD) 
+   
+   
+  2..DEPLOY ON RENDER ⤵️
 
-<p align="center">
-  <a href="https://youtube.com/@16ixtxxn_Tentacion">YouTube Channel</a> |
-  <a href="https://whatsapp.com/channel/0029Vb3uN4N1dAvxv4euxb0q">WhatsApp Channel</a> |
-  <a href="https://wa.me/+27742820156?text=Codexxx">Contact CODEXXX</a>
-</p>
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/codexxx16/Codexxx-MD.git)
 
-<p align="center">
-  <a href="https://github.com/your-repo-name/CODEXXX-MD/fork">
-    <img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK CODEXXX MD" width="150">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://codexxx-md-web.vercel.app/">
-    <img src="https://img.shields.io/badge/FOR%20NOW%20USE%20WORKFLOWS-blue" alt="DEPLOYING PLATFORMS" width="300">
-  </a>
-</p>
+   3..DEPLOY ON GITHUB ⤵️
 
-GitHub Actions Workflows
 
-Node.js CI
+</details>
 
-You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-```yaml
+```
 name: Node.js CI
+
 on:
   push:
     branches:
@@ -67,22 +69,41 @@ on:
   pull_request:
     branches:
       - main
+
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
         node-version: [20.x]
-    steps:
-      - name: Checkout repository
 
-uses: actions/checkout@v3
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install dependencies
-        run: npm install
-      - name: Run tests
-        run: npm test
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
 ```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+### ENJOY 😉 
+
+> DEVELOPER OF CODEXXX-MD 
+- [CODEXXX ](https://github.com/Codexxx16)
+- Creater and Owner Of CODEXXX-MD
+
+> CODEXXX-MD Helper
+- [Malvin King](https://github.com/kingmalvn)
+- For helping in bot plugin files.
+---
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
