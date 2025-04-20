@@ -26,6 +26,9 @@ CODEXXX-MD Multimedia Bot
 <p align="center">
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-CODEXXX-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
+<p align="center">
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/SUBSCRIBE TO MY YOUTUBE-red.svg?style=for-the-badge&logo=youtube"></a>
+</p>
 
 <p align="center">
   <u> CODEXXX-MD </u>
