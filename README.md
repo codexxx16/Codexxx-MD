@@ -29,7 +29,7 @@ CODEXXX-MD Multimedia Bot
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12">YouTube Channel</a> |
+  <a href="https://youtube.com/@16ixtxxn_Tentacion">YouTube Channel</a> |
   <a href="https://whatsapp.com/channel/0029Vb3uN4N1dAvxv4euxb0q">WhatsApp Channel</a> |
   <a href="https://wa.me/+27742820156?text=Codexxx">Contact CODEXXX</a>
 </p>
@@ -42,7 +42,7 @@ CODEXXX-MD Multimedia Bot
 
 <p align="center">
   <a href="https://codexxx-md-web.vercel.app/">
-    <img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOYING PLATFORMS" width="300">
+    <img src="https://img.shields.io/badge/FOR%20NOW%20USE%20WORKFLOWS-blue" alt="DEPLOYING PLATFORMS" width="300">
   </a>
 </p>
 
